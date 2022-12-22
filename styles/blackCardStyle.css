@@ -1,0 +1,25 @@
+.c-blackCard-root {
+    padding: 32px;
+    background-color: #202021;
+    border-radius: 8px;
+    border: 1px solid hsla(0,0%,82%,.1)
+}
+
+.c-blackCard-img {
+    margin-bottom: 24px;
+    width: 140px;
+    height: 140px;
+}
+
+.c-blackCard-title {
+    margin-bottom: 8px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fafafa;
+}
+
+.c-blackCardDesc {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #fafafa;
+}
